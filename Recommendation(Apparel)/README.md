@@ -1,1 +1,2 @@
-# ML-case-study
+# Apparel Recommendation Model
+
